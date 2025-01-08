@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in bash scripting related to word splitting and globbing. The script attempts to process multiple files, but due to how the file names are handled, it can lead to unexpected behavior. The solution shows how to correctly handle file names with spaces and globbing patterns using arrays.
